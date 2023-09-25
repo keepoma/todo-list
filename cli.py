@@ -2,7 +2,7 @@ from functions import read_file, write_file
 import time
 
 now = time.strftime("%Y, %b. %d,  %H:%M,%S")
-print(f"It's {now}")
+print("It's", now)
 while True:
     user_action = input("Do you want to add, view, edit, complete or exit? ")
     user_action = user_action.strip()
