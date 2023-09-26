@@ -3,3 +3,5 @@ Shower
 Run FAST
 Sleep
 Be happy!
+Test the new todo GUI
+Retest once more and be satisfied
