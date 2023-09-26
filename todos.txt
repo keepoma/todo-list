@@ -1,7 +1,9 @@
 Game
 Shower
-Run FAST
+ with soapRun FAST
 Sleep
 Be happy!
-Test the new todo GUI
-Retest once more and be satisfied
+Works?
+Gr8 m8
+Perhaps drink some Coffee
+
